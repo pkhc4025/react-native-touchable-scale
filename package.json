@@ -1,0 +1,35 @@
+{
+  "name": "react-native-touchable-scale",
+  "version": "1.0.0",
+  "description": "React Native TouchableScale component",
+  "author": "pkhc4025",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"lib/**/*.{ts,tsx}\" \"test/**/*.{ts,tsx}\""
+  },
+  "devDependencies": {
+    "@react-native/eslint-config": "^0.74.81",
+    "@tsconfig/react-native": "^3.0.5",
+    "@types/react": "^18.3.1",
+    "babel-plugin-module-resolver": "^5.0.2",
+    "eslint": "^8.57.0",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-import": "^2.29.1",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react-native",
+    "touchable",
+    "scale"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkhc4025/react-native-touchable-scale"
+  }
+}
